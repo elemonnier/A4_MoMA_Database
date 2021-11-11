@@ -7,7 +7,7 @@ In the "Scripts SQL" folder are the scripts for creating, populating and operati
 
 ------------ Python:
 
-To run Python scripts, use an IDE like PyCharm, and compile the "csvtosql.py" file, being careful that the "Artworks.csv" and "Artists.csv" files are indeed present in the current directory. Do not use the original "Artworks.csv" file found on GitHub, it is not strictly homogeneous. For information, the "Artworks.csv" file found in the "Script Python" directory has gone through a pre-processing phase, thanks to to the following commands (to be entered in normal VIM mode):
+To run Python scripts, use an IDE like PyCharm, and compile the "csvtosql.py" file, being careful that the "Artworks.csv" (unzipped) and "Artists.csv" files are indeed present in the current directory. Do not use the original "Artworks.csv" file found on GitHub, it is not strictly homogeneous. For information, the "Artworks.csv" file found in the "Script Python" directory has gone through a pre-processing phase, thanks to to the following commands (to be entered in normal VIM mode):
 :%s/^M\n//g
 :%s/(\n\n/(/g
 :%s/^M //g
