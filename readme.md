@@ -1,9 +1,9 @@
 Welcome to the MoMA New York Artworks Database! - By Etienne Lemonnier and Victor Royer
 You will find important information on the artworks, the artists ...
 
-In the "Report" folder, please find the project report.
-In the "Python Script" folder, please find the algorithms that created the SQL scripts.
-In the "SQL Scripts" folder are the scripts for creating, populating and operating the tables.
+In the "Rapport" folder, please find the project report.
+In the "Script Python" folder, please find the algorithms that created the SQL scripts.
+In the "Scripts SQL" folder are the scripts for creating, populating and operating the tables.
 
 ------------ Python:
 
