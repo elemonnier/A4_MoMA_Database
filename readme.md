@@ -1,4 +1,5 @@
 Welcome to the MoMA New York Artworks Database! - By Etienne Lemonnier and Victor Royer
+
 You will find important information on the artworks, the artists ...
 
 In the "Rapport" folder, please find the project report.
